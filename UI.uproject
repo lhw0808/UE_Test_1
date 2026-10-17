@@ -14,6 +14,10 @@
 		{
 			"Name": "AnimationWarping",
 			"Enabled": true
+		},
+		{
+			"Name": "BinkMedia",
+			"Enabled": true
 		}
 	]
 }
